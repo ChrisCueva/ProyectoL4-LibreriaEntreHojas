@@ -8,8 +8,17 @@ namespace EntreHojas.BL
 {
     public class ProductosBL
     {
+        Contexto _contexto = new Contexto();
+
+        public ProductosBL()
+        {
+            _contexto = new Contexto();
+        }
+
         public List<Producto> ObtenerProductos()
         {
+            _contexto.Productos.ToList();
+
             var producto1 = new Producto();
             producto1.Item = 1;
             producto1.Descripcion = "Hombres sin Mujeres";
