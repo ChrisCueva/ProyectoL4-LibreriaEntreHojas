@@ -9,7 +9,7 @@ namespace EntreHojas.BL
 {
     public class Contexto: DbContext
     {
-        public Contexto(): base("LibreriaEntreHojasDB")
+        public Contexto(): base()
         {
 
         }
