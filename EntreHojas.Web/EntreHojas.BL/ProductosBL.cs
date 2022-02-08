@@ -20,42 +20,42 @@ namespace EntreHojas.BL
             _contexto.Productos.ToList();
 
             var producto1 = new Producto();
-            producto1.Item = 1;
+            producto1.Id = 1;
             producto1.Descripcion = "Hombres sin Mujeres";
             producto1.Autor = "Haruki Murakami";
             producto1.Precio = 450;
             producto1.Existencia = 15;
 
             var producto2 = new Producto();
-            producto2.Item = 2;
+            producto2.Id = 2;
             producto2.Descripcion = "Norwegian Wood";
             producto2.Autor = "Haruki Murakami";
             producto2.Precio = 350;
             producto2.Existencia = 20;
 
             var producto3 = new Producto();
-            producto3.Item = 3;
+            producto3.Id = 3;
             producto3.Descripcion = "A Wild Sheep Chase";
             producto3.Autor = "Haruki Murakami";
             producto3.Precio = 380;
             producto3.Existencia = 10;
 
             var producto4 = new Producto();
-            producto4.Item = 4;
+            producto4.Id = 4;
             producto4.Descripcion = "El Perfume";
             producto4.Autor = "Patrick Süsckind";
             producto4.Precio = 480;
             producto4.Existencia = 30;
 
             var producto5 = new Producto();
-            producto5.Item = 5;
+            producto5.Id = 5;
             producto5.Descripcion = "The Fifth Wave";
             producto5.Autor = "Rick Yancey";
             producto5.Precio = 345;
             producto5.Existencia = 5;
 
             var producto6 = new Producto();
-            producto6.Item = 6;
+            producto6.Id = 6;
             producto6.Descripcion = "The Infinite Sea";
             producto6.Autor = "Rick Yancey";
             producto6.Precio = 300;
