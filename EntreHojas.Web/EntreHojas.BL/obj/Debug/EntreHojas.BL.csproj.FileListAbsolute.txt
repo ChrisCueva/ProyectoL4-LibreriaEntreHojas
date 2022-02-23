@@ -8,3 +8,13 @@ C:\Users\chris\OneDrive\Documents\ProyectoL4-LibreriaEntreHojas-main\EntreHojas.
 C:\Users\chris\OneDrive\Documents\ProyectoL4-LibreriaEntreHojas-main\EntreHojas.Web\EntreHojas.BL\obj\Debug\EntreHojas.BL.csprojResolveAssemblyReference.cache
 C:\Users\chris\OneDrive\Documents\ProyectoL4-LibreriaEntreHojas-main\EntreHojas.Web\EntreHojas.BL\obj\Debug\EntreHojas.BL.dll
 C:\Users\chris\OneDrive\Documents\ProyectoL4-LibreriaEntreHojas-main\EntreHojas.Web\EntreHojas.BL\obj\Debug\EntreHojas.BL.pdb
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntreHojas.BL.dll.config
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntreHojas.BL.dll
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntreHojas.BL.pdb
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntityFramework.dll
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntityFramework.xml
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\obj\Debug\EntreHojas.BL.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\obj\Debug\EntreHojas.BL.dll
+C:\Users\chris\OneDrive\Documents\Libreria Entre Hojas\EntreHojas.Web\EntreHojas.BL\obj\Debug\EntreHojas.BL.pdb
