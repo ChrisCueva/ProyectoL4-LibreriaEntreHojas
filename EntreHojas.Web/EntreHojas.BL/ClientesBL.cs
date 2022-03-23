@@ -22,7 +22,15 @@ namespace EntreHojas.BL
             ListadeClientes = _contexto.Clientes.ToList();
             return ListadeClientes;
         }
-        
+
+        public List<Cliente> ObtenerClientesActivos()
+        {
+            ListadeClientes = _contexto.Clientes
+                .Where(r => r.Activo == true)
+                .ToList();
+            return ListadeClientes;
+        }
+
         public void GuardarCliente (Cliente cliente)
         {
             if (cliente.Id ==0)
