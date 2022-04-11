@@ -2,6 +2,9 @@
 @{
     ViewBag.Title = "Inicio";
 }
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="~/img/favicon.icon">
+</head>
 <section class="story-area left-text center-sm-text">
     <div class="container">
         <div class="col-5 text-center"><h3><b><font face=”Arial” size=5>Nuestros Libros Más Destacados</font></b></h3></div>
@@ -55,8 +58,8 @@
 
             {
 
-                <div class="col-lg-5 col-md-4  col-sm-6 ">
-                    <div class="col-8 text-center">
+                <div class="col-lg-3 col-md-4  col-sm-6 ">
+                    <div class="col-12 text-center">
                         <div class="s-left"><img img style="border: 2px solid; color: black;"class="br-3" src="@(ViewBag.adminWebsiteUrl + producto.UrlImagen)" alt="" width="140" , height="180"></div><!--s-left-->
                         <div class="s-right">
                             <h5 class="mb-10"><b><font face=”Arial” size=4>@producto.Descripcion</font></b> &nbsp;  <b> <FONT face=”Arial” COLOR="red" size=4>L. @producto.Precio </FONT></b></h5>
